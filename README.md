@@ -51,3 +51,15 @@
 
 ## Conclusion
 India’s farmers are hard at work. They help to feed a nation whose population is nearly 1.4 billion. However their productivity is threatened by some natural factors that can ruin their crops and their livelihoods. So, the solution will benefit farmers to maximize productivity in agriculture, reduce soil degradation in cultivated fields, and have informed advice on organic fertilizers/ other fertilizers and also know about the right crop by considering various attributes. This would provide a comprehensive prediction and hence benefit both farmers and environment. Not only this, but pest control would also be major issue to be solved via this project.
+
+## How to run on your local host?
+Prerequisite: Download all files from GDrive Link
+1. Download PyCharm
+2. Create new environment using command
+       1. conda create -n env_name python==3.7.0
+3. Activate environment using command
+       1. conda activate env_name
+4. Install requirements by typing (cd ProjectFolder)
+       1. pip install -r requirements.txt
+5. Now run app.py by writing command 
+       1. python app.py
