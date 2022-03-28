@@ -63,3 +63,5 @@ Prerequisite: Download all files from GDrive Link
 Website Link: https://irrigreat.herokuapp.com/
 
 PEST DATASET: https://www.kaggle.com/simranvolunesia/pest-dataset
+
+Project Demo: https://www.youtube.com/watch?v=HHyqrIkoIvo
